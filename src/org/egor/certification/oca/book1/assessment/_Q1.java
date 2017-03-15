@@ -25,7 +25,6 @@ public class _Q1 {
     public static void main3(String[] args) {
         String a_b;
         System.out.print($);
-//        TODO
 //        System.out.print(a_b);
     }
 
