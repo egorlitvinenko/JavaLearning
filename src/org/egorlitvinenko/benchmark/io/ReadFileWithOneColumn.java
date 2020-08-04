@@ -12,7 +12,7 @@ import java.nio.file.Paths;
  */
 public class ReadFileWithOneColumn extends AbstractATest {
 
-    private String fileName = "/home/egor/Work/Nitka/r_with_cpp/TestCsv/data/test_1_000_000.csv";
+    private String fileName = "/path_to/test_1_000_000.csv";
     private volatile LongHolder readLinesLength = new LongHolder();
 
     @Override
