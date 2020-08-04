@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class ReadFileWithOneColumnAndParseDouble extends AbstractATest {
 
-    private String fileName = "/home/egor/Work/Nitka/r_with_cpp/TestCsv/data/test_1_000_000.csv";
+    private String fileName = "/path_to/test_1_000_000.csv";
     private volatile int readLines = 0;
 
     @Override
